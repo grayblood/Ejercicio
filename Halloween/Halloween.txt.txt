@@ -1,0 +1,39 @@
+<img src="https://paleo-regime.fr/wp-content/uploads/2016/10/Citrouille-de-Halloween-2.jpg" style="float:right" alt="aireacondicionat" width="200" >
+
+Es halloween y ya sabes lo que significa. Muchos caramelos y castañas! (pero principalmente caramelos)
+
+En tu barrio existe una calle muy larga llamada Postbres, es una calle donde siempre te empezaran dando 1 caramelo,
+ pero cuanto mas avances mas caramelos te daran hasta un maximo de X, cuando llegues a X el siguiente te volvera a dar
+un caramelo.
+
+
+## Entrada
+
+La entrada comienza indicando cuantos casos de prueba habran.
+Cada caso de prueba tiene un numero ~N~ que indica cuantas casas has visitado y ~J~ el maximo que te han podido dar antes
+de volver a empezar.
+
+## Sortida
+
+De salida tiene que devolver cuantos caramelos has conseguido a lo largo de la noche
+ 
+
+## Exemple d'Entrada
+
+
+```
+4
+5 5
+6 7
+8 2
+89 7
+```
+
+## Exemple de Sortida
+
+```
+15
+21
+12
+351
+```
